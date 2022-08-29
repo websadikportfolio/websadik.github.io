@@ -1,0 +1,94 @@
+@media screen and (min-width: 320px) and  (max-width: 575px){
+	.porto_main_header{
+		background: #fed11cf5;
+	}
+	.portfolio_banner{
+		margin-top: -95px;
+		padding-top: 70px;
+	}
+	.porto_main_header .btn {
+		color: #333;
+		position: absolute;
+		right: 0px;
+	}
+	.porto_main_header .header_top .menu{
+		position: relative;
+	}
+	.porto_main_header .header_top .menu a{
+		text-align: center;
+	}
+	.porto_main_header .header_top .btn{
+		display:unset;
+	}
+	.collapse:not(.show) {
+		display: none;
+	}
+	.porto_main_header .header_top ul {
+		display:block;
+		text-align:center;
+	}
+	.porto_main_header .header_top ul li {
+		margin-bottom: 9px;
+	}
+	.porto_main_header .header_top ul a i {
+		margin-left:unset;
+		float: unset;
+	}
+	.section_information{
+		background-position: 100% 122%;
+	}
+	.section_information .info_forms{
+		float:unset;
+	}
+	.section_information .info_forms input{
+		width:100%;
+	}
+	.section_information .info_forms textarea{
+		width:100%;
+	}
+	.section_information .info_bg{
+		z-index: -1;
+	}
+	.section_information .info_content{
+		text-align: center;
+		z-index: 99999;
+	}
+	.section_information .info_content ul{
+		justify-content: center;
+	}
+	.portfolio_footer .footer_content{
+		text-align: center;
+	}
+	.portfolio_footer .footer_content1 h3{
+		text-align: center;
+	}
+	.portfolio_footer .footer_content2{
+		text-align: center;
+	}
+	.portfolio_footer{
+		padding-bottom: 51px;
+	}
+	.footer_main p{
+		font-size: 14px;
+		line-height: 36px;
+		text-align: center;
+	}
+	.footer_main .footer_list{
+		float:unset;
+	}
+	.footer_main .footer_list ul{
+		justify-content: center;
+	}
+}
+@media screen and   (min-width: 576px) and  (max-width: 767px){
+
+}
+@media screen and   (min-width: 768px) and  (max-width: 991px){
+
+}
+@media screen and   (min-width: 992px) and  (max-width: 1199px){
+
+}
+@media screen and   (min-width: 1200px) and  (max-width: 1440px){
+
+}
